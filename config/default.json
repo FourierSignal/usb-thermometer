@@ -1,0 +1,13 @@
+{
+  "Sensor": {
+    "id": ""
+  },
+  "API": {
+    "serviceURL": "",
+    "tokenEndPoint": "",
+    "postEndPoint": "",
+    "clientKey": "",
+    "clientSecret": "",
+    "accessTokenFilename": ""
+  }
+}
