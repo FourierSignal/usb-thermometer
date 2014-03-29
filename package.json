@@ -1,7 +1,7 @@
 { "name": "thermometer",
   "description": "USB Thermometer OAuth Client",
   "version": "1.0.0",
-  "dependencies": {
+  "devDependencies": {
     "request": "",
 		"config": ""
   },
