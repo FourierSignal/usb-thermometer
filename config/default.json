@@ -1,13 +1,14 @@
 {
   "Sensor": {
-    "id": ""
+    "id": "internal1"
   },
   "API": {
-    "serviceURL": "",
-    "tokenEndPoint": "",
-    "postEndPoint": "",
-    "clientKey": "",
-    "clientSecret": "",
-    "accessTokenFilename": ""
+    "serviceURL": "http://localhost:8080",
+    "tokenEndPoint": "/token",
+    "postEndPoint": "/temperature",
+    "clientKey": "zenekp",
+    "clientSecret": "1234567890",
+    "accessTokenFilename": "access_token.txt",
+    "lastTemperatureReadingFilename": "last_temperature.txt"
   }
 }
