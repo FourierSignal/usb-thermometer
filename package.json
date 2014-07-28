@@ -1,9 +1,10 @@
-{ "name": "thermometer",
+{
+  "name": "usb-node-thermometer",
   "description": "USB Thermometer OAuth Client",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "devDependencies": {
-    "request": "",
-		"config": ""
+    "request": "2.39.0",
+    "config": "1.0.1"
   },
   "main": "lib/request.js"
 }
